@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Organic Soil Conditioner",
+      "image_url": "/product-images/product_1.png",
+      "price": 350,
+      "rating": 4.3,
+       "weight": "5 kg",
+      "description": "This soil conditioner is made from organic matter and natural minerals, designed to improve soil structure and fertility. It helps retain moisture and provides essential nutrients to plants."
+    },
+
+    {
+      "id": 2,
+      "name": "Worm Composting Bin (Vermicompost Kit)",
+      "image_url": "/product-images/product_2.png",
+      "price": 300,
+      "rating": 4.2,
+      "weight":"5 kg",
+      "description": "A complete vermicomposting kit that includes a bin, red worms, and instructions. Ideal for turning organic waste into nutrient-rich compost using earthworms."
+    },
+
+    {
+      "id": 3,
+      "name": "Organic Plant Food (Liquid Fertilizer)",
+      "image_url": "/product-images/product_3.png",
+      "price": 300,
+      "rating": 4.46,
+      "description": "A concentrated liquid fertilizer made from organic plant extracts and seaweed. Suitable for all types of plants, including vegetables, fruits, and flowers."
+    },
+
+    {
+      "id": 4,
+      "name": "Organic Seedling Starter Kit",
+      "image_url": "/product-images/product_4.png",
+      "price": 150,
+      "rating": 4,
+       "weight": "250 g",
+      "Description": "A kit containing organic soil mix, biodegradable pots, and a variety of organic seeds. Perfect for starting seedlings indoors or in a greenhouse."
+    },
+
+    {
+      "id": 5,
+      "name": "Drip Irrigation System for Organic Gardens",
+      "image_url": "/product-images/product_5.png",
+      "price": 1000,
+      "discounted_price":750,
+      "rating": 4,
+      "description": "A customizable drip irrigation system designed for small to medium-sized organic gardens. It conserves water and delivers it directly to plant roots."
+    },
+
+    {
+      "id": 6,
+      "name": "Organic Fruit & Vegetable Wash",
+      "image_url": "/product-images/product_6.png",
+      "price": 400,
+      "rating": 4.1,
+      "weight":"1000 ml",
+      "description": "A natural, non-toxic wash for cleaning fruits and vegetables, removing dirt, wax, and pesticide residues. Safe for all produce."
+    },
+
+    {
+      "id": 7,
+      "name": "Eco Friendly Plant Pots",
+      "image_url": "/product-images/product_7.png",
+      "price": 2050,
+      "discounted_price":1500,
+      "rating": 4.1,
+      "description": "Biodegradable plant pots made from recycled materials. These pots decompose naturally and can be planted directly in the ground, reducing transplant shock."
+    },
+
+    {
+      "id": 8,
+      "name": "Organic Mulch(Coconut Coir)",
+      "image_url": "/product-images/product_8.png",
+      "price": 320,
+      "rating": 4,
+      "weight":"4 kg",
+      "description": "The Neo 7 (5G) is a gaming-centric 5G smartphone featuring a Snapdragon 750G processor, 6GB RAM, and 128GB storage. It comes with a 48MP rear camera and a 16MP front camera for capturing gaming moments and selfies."
+    },
+
+    {
+      "id": 9,
+      "name": "Insect-Repelling Plant Mix",
+      "image_url": "/product-images/product_9.png",
+      "price": 290,
+      "weight":"200 ml",
+      "rating": 4,
+      "description": "A collection of organic seeds for plants known to repel insects, such as marigold, basil, and lavender. Perfect for natural pest control in your garden."
+    },
+
+    {
+      "id": 10,
+      "name": "Bee-Friendly Flower Seeds",
+      "image_url": "/product-images/product_10.png",
+      "price": 150,
+      "rating": 4.3,
+       "weight":"15 per packet",
+      "description": "The Neo 6 is a mid-range 4G smartphone equipped with a Snapdragon 778G processor, 8GB RAM, and 256GB storage. It features a 50MP rear camera and a 16MP front camera for capturing memorable moments with clarity."
+    },
+
+    {
+      "id": 11,
+      "name": "Organic Plant Disease Control",
+      "image_url": "/product-images/product_11.png",
+      "price": 290,
+      "rating": 4.1,
+      "weight":"400 gm",
+      "description": "TA natural, organic fungicide and bactericide for controlling plant diseases like blight, mildew, and rust. Safe for edible plants."
+    },
+
+    {
+      "id": 12,
+      "name": "Organic Plant Stakes with Tees",
+      "image_url": "/product-images/product_12.png",
+      "price": 200,
+      "rating": 4.3,
+      "weight":"Pack of 3",
+      "description": " Bamboo plant stakes paired with natural fiber ties, ideal for supporting growing plants without damaging them. Perfect for tomatoes, cucumbers, and other vine crops."
+    }
+  ]
+ }
